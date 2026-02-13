@@ -1,0 +1,9 @@
+PK-101 Boeing111 Lahore Karachi 28-04-2005 23:34 International 1 89 Landed 1
+PK-103 AirBus201 Karachi Islamabad 23-53-32 12:32 Domestic 2 12 Landed 1
+PK-222 AirBus221 Lahore London 2321312 2313 International 2 21 Departed 0
+PK-111 AirBus229 Lahore Peshawar 1221323 3213 International 2 23 Departed 0
+PK-102 AirBus200 Lahore Islamabad 22-32-12 23:03 Domestic 3 22 Departed 0
+PK-786 Lahore Gujrat Sialkot 23-41-12 12:12 Domestic 3 21 Departed 0
+PK-777 Airbus220 Gilgit Hunza 122121 23231 Domestic 3 67 Departed 0
+PK-123 AirBus123 Karachi London 122121 2121 International 3 88 Departed 0
+PK-456 airbus101 Lahore Karachi 12-12-2012 24:01 International 2 1 Landed 1

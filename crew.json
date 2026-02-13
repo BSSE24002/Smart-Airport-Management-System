@@ -1,0 +1,14 @@
+[
+    {
+        "available": true,
+        "crewID": 101,
+        "name": "Ali",
+        "role": "Mechanic"
+    },
+    {
+        "available": false,
+        "crewID": 24025,
+        "name": "hashir",
+        "role": "sweeper"
+    }
+]

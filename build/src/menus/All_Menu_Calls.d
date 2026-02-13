@@ -1,0 +1,41 @@
+build/src/menus/All_Menu_Calls.o: src/menus/All_Menu_Calls.cpp \
+ src/menus/All_Menu_Calls.h src/menus/../modules/m2_passenger/Module_2.h \
+ src/menus/../modules/m2_passenger/Airport_Manager.h \
+ src/menus/../modules/m2_passenger/../../structures/BinaryTree.h \
+ src/menus/../modules/m2_passenger/../../structures/Node.h \
+ src/menus/../modules/m2_passenger/Flight_Info.h \
+ src/menus/../modules/m2_passenger/Booking_Passenger_m2.h \
+ src/menus/../modules/m2_passenger/Passenger_Info.h \
+ src/menus/../modules/m2_passenger/../../structures/DoublyLinkedList.h \
+ src/menus/../modules/m2_passenger/FlightSeats.h \
+ src/menus/../modules/m2_passenger/../../utils/Sorts.h \
+ src/menus/../modules/m2_passenger/Boarding_Passenger.h \
+ src/menus/../modules/m2_passenger/../../structures/Queue.h \
+ src/menus/../modules/m2_passenger/../../structures/Node.h \
+ src/menus/../modules/m2_passenger/EclList.h \
+ src/menus/../modules/m2_passenger/../../structures/linkedlist.h \
+ src/menus/BagMenu.h src/menus/../modules/m3_baggage/BagManager.h \
+ src/menus/../modules/m3_baggage/../../structures/linkedlist.h \
+ src/menus/../modules/m3_baggage/../../structures/DoublyLinkedList.h \
+ src/menus/../modules/m3_baggage/../../structures/Queue.h \
+ src/menus/../modules/m3_baggage/../../structures/BinaryTree.h \
+ src/menus/../modules/m3_baggage/Bag.h \
+ src/menus/../modules/m3_baggage/B_Passenger.h \
+ src/menus/../modules/m3_baggage/PlaneBelly.h \
+ src/menus/../modules/m3_baggage/../../structures/Stack.h \
+ src/menus/../modules/m3_baggage/ConveyerNetwork.h \
+ src/menus/MenuModule1.h src/menus/../modules/m1_airtraffic/AirTraffic.h \
+ src/menus/../modules/m1_airtraffic/Plane.h \
+ src/menus/../modules/m1_airtraffic/Runway.h \
+ src/menus/../modules/m1_airtraffic/BinarySearchTree.h \
+ src/menus/../modules/m1_airtraffic/PriorityQueue.h \
+ src/menus/../modules/m1_airtraffic/SimpleGraph.h \
+ src/menus/../modules/m1_airtraffic/../../structures/Stack.h \
+ src/menus/../modules/m1_airtraffic/../../structures/Queue.h \
+ src/menus/../modules/m1_airtraffic/../../utils/Sorts.h \
+ src/menus/../modules/m1_airtraffic/../../structures/DoublyLinkedList.h \
+ src/menus/../modules/m4_maintenance/bsse24030.h \
+ src/menus/../modules/m4_maintenance/../../structures/Node.h \
+ src/menus/../modules/m4_maintenance/../../utils/Sorts.h \
+ src/menus/../modules/m4_maintenance/../../structures/BinaryTree.h \
+ src/menus/../modules/m4_maintenance/../../utils/json.hpp
